@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CtyptoCurrency/static/css/main.3db204cb.css",
+    "main.js": "/CtyptoCurrency/static/js/main.67644d16.js",
+    "static/js/787.5f6d7d0b.chunk.js": "/CtyptoCurrency/static/js/787.5f6d7d0b.chunk.js",
+    "index.html": "/CtyptoCurrency/index.html",
+    "main.3db204cb.css.map": "/CtyptoCurrency/static/css/main.3db204cb.css.map",
+    "main.67644d16.js.map": "/CtyptoCurrency/static/js/main.67644d16.js.map",
+    "787.5f6d7d0b.chunk.js.map": "/CtyptoCurrency/static/js/787.5f6d7d0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db204cb.css",
+    "static/js/main.67644d16.js"
+  ]
+}
